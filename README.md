@@ -9,6 +9,8 @@
 <script async="" charset="utf-8" src="//if-cdn.com/embed.js"></script>
 </div>
 
-<p><a href="https://download843.mediafire.com/ne47xrmf99ogeXOGfdnsevxRhXv7RfcoXyz2LG0D4elM99GObsHAPC5MPYOnIN36lHQST_k0X1UkDlSe2BRKCuekp8i-afv5dJuWsFc8uKD1cgxjGexgj0hZnB4efnHBbYkl3dbadd7nGg5xSV7g2gf9nT3CjEE1EVmtjNfxkatj9w/m44sddqv7tnagdz/Black+Op3+Simple+Injector.zip"><img alt="Retro Arch" src="https://png.pngtree.com/png-vector/20201118/ourmid/pngtree-navy-blue-download-button-with-arrow-png-image_2459555.jpg" style="height:75px; width:125px" /></a><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
+<p><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
 
 <p>&nbsp;</p>
+
+<p><a class="input popsok" href="https://download843.mediafire.com/9eiuwbyn4drg4DmPzBHK5Jg5xgwh1MlINwARIN9IFrw6ruv1UZmu5N0o-GWe1Zpf6qE-ITZsFs0fVIKngmlEfAXd_-V-MHMh202QMHhXOm_Wd36mRYESzbLR_VV71lRZsYDKTdSKrl-UTlGAJA5d3o9K_yZMzh5_QRVvIpJlF26t9Q/m44sddqv7tnagdz/Black+Op3+Simple+Injector.zip" id="downloadButton" rel="nofollow">Download (2.23MB) </a></p>
