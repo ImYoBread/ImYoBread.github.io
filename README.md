@@ -1,6 +1,5 @@
-<p>Welcome To My Retail Store (Click Pictures For Downloads)</p>
+<p>Welcome To My Projects</p>
 
-<p>Uploaded and Signed By Elijah Garrett</p>
 
 <div data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
 <div style="max-width:540px">
