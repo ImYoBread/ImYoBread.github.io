@@ -86,7 +86,7 @@
   <h1 class="main-heading">Welcome To My Projects</h1>
 
   <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
-    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" tabindex="-1"></iframe>
+    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls tabindex="-1"></iframe>
     <div class="play-button"></div>
   </div>
 
