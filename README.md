@@ -1,7 +1,6 @@
-<html lang="en-US"><head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html>
+<head>
   <title>Welcome To My Projects</title>
   <style>
     body {
@@ -44,7 +43,7 @@
       display: block;
       max-width: 200px;
       margin: 0 auto;
-      padding: 12px 24px;
+      padding: 8px 16px; /* Reduced padding */
       background-color: #007bff;
       color: #fff;
       text-decoration: none;
@@ -57,26 +56,16 @@
       background-color: #0056b3;
     }
   </style>
-
-
-  </head><body><h1 class="main-heading">Welcome To My Projects</h1>
+</head>
+<body>
+  <h1 class="main-heading">Welcome To My Projects</h1>
 
   <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
     <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
   </div>
 
-
   <p>&nbsp;</p>
 
   <p><a class="download-button" href="https://www.mediafire.com/file/m44sddqv7tnagdz/Black_Op3_Simple_Injector.zip/file" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
-
-
-
-
-      
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  
-
-</body></html>
+</body>
+</html>
