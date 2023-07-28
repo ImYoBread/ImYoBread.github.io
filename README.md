@@ -40,7 +40,7 @@
 
     .download-button {
       display: block;
-      max-width: 200px;
+      max-width: 250px;
       margin: 0 auto;
       padding: 6px 16px; /* Smaller vertical padding */
       background-color: #007bff;
