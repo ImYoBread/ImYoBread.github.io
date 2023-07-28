@@ -49,6 +49,7 @@
       border-radius: 5px;
       font-weight: bold;
       text-align: center;
+      white-space: nowrap; /* Keeps the text on one line */
     }
 
     .download-button:hover {
