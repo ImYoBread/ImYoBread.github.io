@@ -4,51 +4,41 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #111;
-      color: #fff;
     }
 
     h1.main-heading {
       color: #007bff;
-      font-size: 36px;
+      font-size: 24px;
       margin-bottom: 20px;
     }
 
     p {
-      color: #ddd;
-      font-size: 20px;
+      color: #333;
+      font-size: 18px;
       line-height: 1.6;
       margin-bottom: 20px;
     }
 
     .video-container {
-      max-width: 640px;
+      max-width: 540px;
       margin: 0 auto; /* Center the video container */
-      position: relative;
-      overflow: hidden;
-      padding-bottom: 36%; /* Adjust aspect ratio as per your preference */
     }
 
-    .video-container iframe {
+    .video-container video {
       width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      border: 0;
+      display: block;
     }
 
     .download-button {
       display: block;
       max-width: 200px;
       margin: 0 auto;
-      padding: 12px 24px;
+      padding: 10px 20px;
       background-color: #007bff;
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
-      text-align: center;
     }
 
     .download-button:hover {
@@ -59,10 +49,14 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
-  <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
-    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
+  <div class="video-container">
+    <video controls>
+      <source src="https://i.imgur.com/dJccR0X.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
 
+  <p><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
 
   <p>&nbsp;</p>
 
