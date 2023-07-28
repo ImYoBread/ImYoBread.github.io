@@ -63,7 +63,6 @@
     <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
   </div>
 
-  <p><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
 
   <p>&nbsp;</p>
 
