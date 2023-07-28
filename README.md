@@ -23,18 +23,11 @@
     .video-container {
       max-width: 540px;
       margin: 0 auto; /* Center the video container */
-      position: relative;
-      overflow: hidden;
-      padding-bottom: 30%; /* Adjust aspect ratio as per your preference */
     }
 
-    .video-container iframe {
+    .video-container video {
       width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      border: 0;
+      display: block;
     }
 
     .download-button {
@@ -57,8 +50,11 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
-  <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
-    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls tabindex="-1"></iframe>
+  <div class="video-container">
+    <video controls>
+      <source src="https://i.imgur.com/dJccR0X.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
 
   <p><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
