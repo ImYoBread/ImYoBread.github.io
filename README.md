@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Welcome To My Projects</title>
@@ -43,7 +42,7 @@
       display: block;
       max-width: 200px;
       margin: 0 auto;
-      padding: 8px 16px; /* Reduced padding */
+      padding: 6px 16px; /* Smaller vertical padding */
       background-color: #007bff;
       color: #fff;
       text-decoration: none;
