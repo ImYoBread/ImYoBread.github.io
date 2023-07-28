@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>Welcome To My Projects</title>
@@ -21,12 +22,49 @@
 
     .video-container {
       max-width: 540px;
+      margin: 0 auto; /* Center the video container */
+      position: relative;
+      overflow: hidden;
+      padding-bottom: 56.25%; /* Aspect ratio 16:9 */
     }
 
     .video-container iframe {
       width: 100%;
       height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
       border: 0;
+    }
+
+    .play-button {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background-color: rgba(0, 0, 0, 0.6);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .play-button:before {
+      content: "";
+      border-style: solid;
+      border-width: 15px 0 15px 26px;
+      border-color: transparent transparent transparent white;
+    }
+
+    .play-button:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+
+    .play-button:hover:before {
+      border-left-color: rgba(255, 255, 255, 0.8);
     }
 
     .download-button {
@@ -48,9 +86,8 @@
   <h1 class="main-heading">Welcome To My Projects</h1>
 
   <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
-    <div style="height:0; left:0; padding-bottom:56.25%; position:relative; width:100%">
-      <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" tabindex="-1"></iframe>
-    </div>
+    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" tabindex="-1"></iframe>
+    <div class="play-button"></div>
   </div>
 
   <p><a href="ms-windows-store://pdp/?productid=c3q2wwjj2t1h"><img alt="" src="https://i.imgur.com/dJccR0X.mp4" /></a></p>
