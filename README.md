@@ -75,8 +75,10 @@
         <h1>Welcome to My Projects</h1>
 
         <div class="video-container">
+        <div style="height: 0; padding-bottom: 56.25%;">
             <iframe allowfullscreen="" src="https://i.imgur.com/dJccR0X.mp4" tabindex="-1"></iframe>
         </div>
+    </div>
 
         <p>&nbsp;</p>
 
