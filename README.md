@@ -66,6 +66,6 @@
 
   <p>&nbsp;</p>
 
-  <p><a class="download-button" href="https://www.mediafire.com/file/m44sddqv7tnagdz/Black_Op3_Simple_Injector.zip/file" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
+  <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
 </body>
 </html>
