@@ -5,12 +5,12 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #3DBB3D; /* Hulu Green */
+      background-color: #000000; /* Black */
       color: #fff;
     }
 
     h1.main-heading {
-      color: #FF9300; /* Hulu Orange */
+      color: #FF8C00; /* Dark Orange */
       font-size: 36px;
       margin-bottom: 20px;
     }
@@ -44,7 +44,7 @@
       max-width: 250px;
       margin: 0 auto;
       padding: 6px 16px; /* Smaller vertical padding */
-      background-color: #FF9300; /* Hulu Orange */
+      background-color: #FFA500; /* Orange */
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
@@ -54,7 +54,7 @@
     }
 
     .download-button:hover {
-      background-color: #E56D00; /* Slightly darker shade for hover */
+      background-color: #FF8C00; /* Dark Orange (Slightly lighter than regular) */
     }
   </style>
 </head>
