@@ -1,15 +1,16 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>Welcome To My Projects</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #111;
+      background-color: #3DBB3D; /* Hulu Green */
       color: #fff;
     }
 
     h1.main-heading {
-      color: #007bff;
+      color: #FF9300; /* Hulu Orange */
       font-size: 36px;
       margin-bottom: 20px;
     }
@@ -43,7 +44,7 @@
       max-width: 250px;
       margin: 0 auto;
       padding: 6px 16px; /* Smaller vertical padding */
-      background-color: #007bff;
+      background-color: #FF9300; /* Hulu Orange */
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
@@ -53,7 +54,7 @@
     }
 
     .download-button:hover {
-      background-color: #0056b3;
+      background-color: #E56D00; /* Slightly darker shade for hover */
     }
   </style>
 </head>
