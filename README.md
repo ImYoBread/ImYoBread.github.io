@@ -63,17 +63,16 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
+  <!-- First video container and download button -->
   <div class="video-container">
-    <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf" controls="" tabindex="-1"></iframe>
+    <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf/embed" controls="" tabindex="-1"></iframe>
+    <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
   </div>
+
+  <!-- Second video container and download button -->
   <div class="video-container">
     <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
-  </div>
-
-  <p>&nbsp;</p>
-
-  <div class="download-button">
-    <a href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a>
+    <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
   </div>
 </body>
 </html>
