@@ -14,32 +14,29 @@
       margin-bottom: 20px;
     }
 
-    p {
-      color: #ddd;
-      font-size: 20px;
-      line-height: 1.6;
-      margin-bottom: 20px;
-    }
-
     .video-container {
-      max-width: 640px;
-      margin: 0 auto; /* Center the video container */
-      position: relative;
-      overflow: hidden;
-      padding-bottom: 36%; /* Adjust aspect ratio as per your preference */
+      display: flex;
+      flex-wrap: nowrap; /* Set flex-wrap to nowrap to prevent items from wrapping */
+      justify-content: space-between;
     }
 
-    .video-container iframe {
+    .video-item {
+      flex: 1; /* Change flex-basis to flex to distribute available space evenly */
+      margin-right: 10px; /* Add margin between items */
+    }
+
+    .video-item:last-child {
+      margin-right: 0; /* Remove margin for the last item to prevent extra spacing */
+    }
+
+    .video-item iframe {
       width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      border: 0;
+      height: 400px; /* Adjust the height as needed */
     }
 
     .download-button {
       display: block;
+      width: 100%;
       max-width: 250px;
       margin: 0 auto;
       padding: 6px 16px; /* Smaller vertical padding */
@@ -60,12 +57,17 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
-  <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
-    <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
+  <div class="video-container">
+    <div class="video-item">
+      <blockquote class="imgur-embed-pub" lang="en" data-id="dJccR0X" data-context="false"><a href="//imgur.com/dJccR0X"></a></blockquote>
+      <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+      <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton1" rel="nofollow">Download Bo3 Injector (2.23MB)</a></p>
+    </div>
+    <div class="video-item">
+      <blockquote class="imgur-embed-pub" lang="en" data-id="a/b2LSrYf" data-context="false"><a href="//imgur.com/a/b2LSrYf"></a></blockquote>
+      <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+      <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/VIDEO2.rar" id="downloadButton2" rel="nofollow">Download AccountTool (67.37MB)</a></p>
+    </div>
   </div>
-
-  <p>&nbsp;</p>
-
-  <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
 </body>
 </html>
