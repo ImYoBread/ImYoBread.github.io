@@ -23,7 +23,8 @@
     }
 
     .video-container {
-      max-width: 640px;
+      width: 50%; /* Set the width to 50% for a two-column layout */
+      max-width: 320px; /* Adjust the maximum width as needed */
       margin: 0 auto;
       position: relative;
       overflow: hidden;
