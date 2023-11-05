@@ -37,7 +37,7 @@
     .download-button {
       display: block;
       width: 100%;
-      max-width: 250px;
+      max-width: 300px;
       margin: 0 auto;
       padding: 6px 16px; /* Smaller vertical padding */
       background-color: #FFA500; /* Orange */
