@@ -6,6 +6,7 @@
       font-family: Arial, sans-serif;
       background-color: #000000; /* Black */
       color: #fff;
+      text-align: center; /* Center the content */
     }
 
     h1.main-heading {
@@ -23,10 +24,11 @@
 
     .video-container {
       max-width: 640px;
-      margin: 0 auto; /* Center the video container */
+      margin: 0 auto;
       position: relative;
       overflow: hidden;
       padding-bottom: 36%; /* Adjust aspect ratio as per your preference */
+      display: inline-block; /* Display videos side by side */
     }
 
     .video-container iframe {
@@ -42,14 +44,14 @@
       display: block;
       max-width: 250px;
       margin: 0 auto;
-      padding: 6px 16px; /* Smaller vertical padding */
+      padding: 6px 16px;
       background-color: #FFA500; /* Orange */
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
       text-align: center;
-      white-space: nowrap; /* Keeps the text on one line */
+      white-space: nowrap;
     }
 
     .download-button:hover {
@@ -60,12 +62,16 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
-  <div class="video-container" data-oembed-url="https://i.imgur.com/dJccR0X.mp4">
+  <!-- First video container and download button -->
+  <div class="video-container">
+    <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf/embed" controls="" tabindex="-1"></iframe>
+  </div>
+  <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
+
+  <!-- Second video container and download button -->
+  <div class="video-container">
     <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
   </div>
-
-  <p>&nbsp;</p>
-
   <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
 </body>
 </html>
