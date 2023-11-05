@@ -25,7 +25,7 @@
     .video-container {
       width: 50%; /* Set the width to 50% for a two-column layout */
       max-width: 320px; /* Adjust the maximum width as needed */
-      margin: 0 auto;
+      margin: 0;
       position: relative;
       overflow: hidden;
       padding-bottom: 36%; /* Adjust aspect ratio as per your preference */
@@ -63,16 +63,17 @@
 <body>
   <h1 class="main-heading">Welcome To My Projects</h1>
 
-  <!-- First video container and download button -->
   <div class="video-container">
-    <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf/embed" controls="" tabindex="-1"></iframe>
+    <iframe allowfullscreen="" src="https://imgur.com/a/b2LSrYf" controls="" tabindex="-1"></iframe>
   </div>
-  <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
-
-  <!-- Second video container and download button -->
   <div class="video-container">
     <iframe allowfullscreen="" src="//if-cdn.com/tmI6bFJ?app=1" controls="" tabindex="-1"></iframe>
   </div>
-  <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a></p>
+
+  <p>&nbsp;</p>
+
+  <div class="download-button">
+    <a href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton" rel="nofollow">Download (2.23MB)</a>
+  </div>
 </body>
 </html>
