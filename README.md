@@ -61,7 +61,7 @@
     <div class="video-item">
       <blockquote class="imgur-embed-pub" lang="en" data-id="dJccR0X" data-context="false"><a href="//imgur.com/dJccR0X"></a></blockquote>
       <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-      <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton1" rel="nofollow">Download Bo3 Injector (2.23MB)</a></p>
+      <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton1" rel="nofollow">Download Bo3 Injector (1.04MB)</a></p>
     </div>
     <div class="video-item">
       <blockquote class="imgur-embed-pub" lang="en" data-id="a/b2LSrYf" data-context="false"><a href="//imgur.com/a/b2LSrYf"></a></blockquote>
