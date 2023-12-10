@@ -61,7 +61,7 @@
     <div class="video-item">
       <blockquote class="imgur-embed-pub" lang="en" data-id="a/3AkUibl" data-context="false" ><a href="//imgur.com/a/3AkUibl"></a></blockquote>
       <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-      <p><a class="download-button" href="https://www.mediafire.com/file/fey06bl7gc0bj8s/Putty_Server_Quick_Connect_and_Encrypter.rar/file" id="downloadButton3" rel="nofollow">Batch Encrypter (9.19KB)</a></p>
+      <p><a class="download-button" href="https://www.mediafire.com/file/fey06bl7gc0bj8s/Putty_Server_Quick_Connect_and_Encrypter.rar/file" id="downloadButton3" rel="nofollow">Download Batch Encrypter (9.19KB)</a></p>
     </div>
  <div class="video-item">
       <blockquote class="imgur-embed-pub" lang="en" data-id="dJccR0X" data-context="false"><a href="//imgur.com/dJccR0X"></a></blockquote>
