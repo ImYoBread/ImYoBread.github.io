@@ -74,10 +74,6 @@
       <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
       <p><a class="download-button" href="https://www.mediafire.com/file/dkno52tmnoruyby/BO3_Simple_Injector.rar" id="downloadButton1" rel="nofollow">Download Bo3 Injector (1.04MB)</a></p>
     </div>
-    <div class="video-item">
-      <blockquote class="imgur-embed-pub" lang="en" data-id="your-fourth-video-id" data-context="false"><a href="//imgur.com/your-fourth-video-id"></a></blockquote>
-      <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-      <p><a class="download-button" href="your-fourth-video-download-link" id="downloadButton4" rel="nofollow">Next Video (?.??MB)</a></p>
     </div>
   </div>
 </body>
