@@ -77,6 +77,42 @@
       box-shadow: 0 8px 30px rgba(255, 105, 180, 0.6); /* Shadow effect */
     }
 
+    /* Media Queries for Responsiveness */
+    @media (max-width: 768px) {
+      h1.main-heading {
+        font-size: 2.5em; /* Adjust font size for tablets/smaller screens */
+      }
+
+      .video-item {
+        flex: 1 0 100%; /* Full width on smaller screens */
+        margin: 10px;
+        max-width: 100%;
+      }
+
+      .video-item iframe {
+        height: 250px; /* Reduce iframe height for smaller screens */
+      }
+
+      .download-button {
+        font-size: 1.1em; /* Slightly reduce button text size for smaller screens */
+        padding: 10px 16px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      h1.main-heading {
+        font-size: 2em; /* Smaller font size for mobile */
+      }
+
+      .video-item iframe {
+        height: 200px; /* Further reduce iframe height for mobile */
+      }
+
+      .download-button {
+        font-size: 1em; /* Reduce button text size for mobile */
+      }
+    }
+
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap'); /* Importing futuristic font */
   </style>
 </head>
